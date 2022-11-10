@@ -31,19 +31,12 @@ text-decoration: underline; text-align: center;}
 	text-align: left;
 	display: inline-block;
 }
-.listaingredientes ol {
-  text-align: left;
-  display: inline-block;
-}
 
 .listaingredientes1 {color: black; font-family: Verdana; font-size: small;}
 .listaingredientes1  {text-align: center;
 }
 
-.listaingredientes1 ul {
-	text-align: left;
-	display: inline-block;
-}
+
 .listaingredientes1 ol {
   text-align: left;
   display: inline-block;
